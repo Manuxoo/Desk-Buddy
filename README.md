@@ -209,9 +209,7 @@ emo-clone/
 
 ## Autore
 
-**Manuel Alfio Barbagallo**
-Studente ITIS Informatico (3° anno) — Sant'Alfio, Catania
-Progetto personale in preparazione al percorso di Robotica al Politecnico di Milano
+**MaiSbgaliare**
 
 ---
 
